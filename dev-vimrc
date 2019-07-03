@@ -1,1 +1,1 @@
-let &runtimepath = '~/Code/python-plugin-vim,' . &runtimepath
+let &runtimepath = '~/Code/vim-tracker,' . &runtimepath
